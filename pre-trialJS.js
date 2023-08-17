@@ -5,3 +5,6 @@ console.log("The sum of " + a + " and " + b + " is: " + sum);
 
 let difference = a - b;
 console.log("The difference of " + a + "and " + b + "is: " + difference);
+
+let product = a*b;
+console.log("The product of " + a + "and " + b + "is: " + product);
